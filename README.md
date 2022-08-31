@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="https://github.com/johanstech" target="_blank">Author</a>
 </div>
 
@@ -27,7 +27,7 @@
 
 ## :dart: About
 
-Writing a README is probably my least favourite part of any project, so I figured I'd keep a template around
+Writing a README is probably my least favourite part of any project, so I figured I'd keep a template around for future projects.
 
 
 Made with :heart: by <a href="https://github.com/johanstech" target="_blank">Johan</a>

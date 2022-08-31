@@ -8,7 +8,7 @@
 
 <h1 align="center">{{app_name}}</h1>
 
-<p align="center">
+<div align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{github_user}}/{{github_repository}}?color=B8337A">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{github_user}}/{{github_repository}}?color=B8337A">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{github_user}}/{{github_repository}}?color=B8337A">
@@ -16,13 +16,13 @@
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{github_user}}/{{github_repository}}?color=B8337A" /> -->
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{github_user}}/{{github_repository}}?color=B8337A" /> -->
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{github_user}}/{{github_repository}}?color=B8337A" /> -->
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <!-- <a href="#{{section_tag}}">{{section_title}}</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/{{github_user}}" target="_blank">Author</a>
-</p>
+</div>
 
 <br>
 
