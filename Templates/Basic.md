@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{github_user}}/{{github_repository}}?color=BB8337A">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{github_user}}/{{github_repository}}?color=BB8337A">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/{{github_user}}/{{github_repository}}?color=BB8337A"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{github_user}}/{{github_repository}}?color=BB8337A" /> -->
 
@@ -24,10 +24,20 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{github_user}}/{{github_repository}}?color=BB8337A" /> -->
 </p>
 
-<!-- Status -->
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="https://github.com/{{github_user}}" target="_blank">Author</a>
+</p>
 
-<!-- <h4 align="center"> 
-	🚧  {{app_name}} 🚀 Under construction...  🚧
-</h4> 
+<br>
 
-<hr> -->
+## About ##
+
+Project description
+
+
+Made with :heart: by <a href="https://github.com/{{github_user}}" target="_blank">{{author}}</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
