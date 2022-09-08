@@ -30,7 +30,13 @@
 
 Project description
 
-<!-- ## {{section_title}} ##
+<!-- ## :rocket: Takeaways
+
+|  #  |  Thing  |  Description  |
+| :-: | :-----: | :-----------: |
+| 01| [Linktext](Link) | Description | -->
+
+<!-- ## {{section_title}}
 
 Section text -->
 
